@@ -11,3 +11,8 @@ If this were actual software, you would probably want installion instructions in
 
 ## Usage
 For a real project, you would probably also want to include some usage instructions - especially if it were a CLI tool with no graphical interface.
+
+## Git Commands
+git add #filename#
+git commit -m "#message#"
+git push
