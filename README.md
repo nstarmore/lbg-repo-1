@@ -21,7 +21,7 @@ For a real project, you would probably also want to include some usage instructi
 **git add #filename#** - add file to 'working tree'  
 **git commit -m "#message#"** - commit changes to index/staging  
 **git push** - push to shared git repo   
-**git push -u origin** - push to shared git repo for first time 
+**git push -u origin #branchname#** - push to shared git repo for first time and set push to that branch by default
 **git log** - show list of commits  
 **git log --online** - show list of commits in less detail in first branch   
 **git log --online --graph --all** - show list of commits in less detail across all branches  
