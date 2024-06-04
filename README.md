@@ -1,10 +1,13 @@
 # LBG-REPO-1
 
-This is and example of normal text in git repository.
+This is and example of normal text in git repository.  
+
+Some description of what the code/app actually does and some background.
 
 ## Contents
     1 Installation
     2 Usage
+    3 Git Commands
     
 ## Installation
 If this were actual software, you would probably want installion instructions in the README so that people can figur out how to install your software.
@@ -13,6 +16,7 @@ If this were actual software, you would probably want installion instructions in
 For a real project, you would probably also want to include some usage instructions - especially if it were a CLI tool with no graphical interface.
 
 ## Git Commands
-git add #filename#
-git commit -m "#message#"
-git push
+**git status** - check status in git tree  
+**git add #filename#** - add file to 'working tree'  
+**git commit -m "#message#"** - commit changes to index/staging  
+**git push** - push to shared git repo  
