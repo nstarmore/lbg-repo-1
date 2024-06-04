@@ -20,6 +20,8 @@ For a real project, you would probably also want to include some usage instructi
 **git status** - check status in git tree  
 **git add #filename#** - add file to 'working tree'  
 **git commit -m "#message#"** - commit changes to index/staging  
+**git pull origin #branchname#** - pull branch from github  
+**git merge #branchname#** - merge current branch into #branchname#  
 **git push** - push to shared git repo   
 **git push -u origin #branchname#** - push to shared git repo for first time and set push to that branch by default
 **git log** - show list of commits  
