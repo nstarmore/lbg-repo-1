@@ -5,7 +5,7 @@ This is and example of normal text in git repository.
 Some description of what the code/app actually does and some background.
 
 ## Contents
-    * [Installation]
+    *[Installation](#installation)
     1 Installation
     2 Usage
     3 Git Commands
