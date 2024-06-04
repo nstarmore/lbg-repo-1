@@ -22,3 +22,4 @@ For a real project, you would probably also want to include some usage instructi
 **git commit -m "#message#"** - commit changes to index/staging  
 **git push** - push to shared git repo   
 **git push -u origin** - push to shared git repo for first time 
+**git branch -a** - see detailed available branches
